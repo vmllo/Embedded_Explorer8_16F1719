@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Embedded
+PROJECTNAME=Embedded_Explorer8_16F1719
 
 # Active Configuration
 DEFAULTCONF=default

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-  <executable name="dist/default/production\Embedded.production.hex">
+  <executable name="dist/default/production\Embedded_Explorer8_16F1719.production.hex">
     <memory name="program">
       <units>words</units>
       <length>16384</length>
-      <used>398</used>
-      <free>15986</free>
+      <used>72</used>
+      <free>16312</free>
     </memory>
     <memory name="data">
       <units>bytes</units>
       <length>2048</length>
-      <used>70</used>
-      <free>1978</free>
+      <used>12</used>
+      <free>2036</free>
     </memory>
   </executable>
 </project>
